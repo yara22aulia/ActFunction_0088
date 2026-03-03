@@ -13,7 +13,8 @@ void input (){\
     cin >> l;
 }
 
-float LuasPersegi(){
+float LuasPersegi()
+{
     return p * l;
 }
 
