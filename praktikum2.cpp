@@ -12,7 +12,8 @@ void input (){
     cin >> l;
 }
 
-float LuasPersegi(float x, float y){
+float LuasPersegi(float x, float y)
+{
     return x * y;
 }
 
