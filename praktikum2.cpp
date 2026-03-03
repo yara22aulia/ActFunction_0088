@@ -23,7 +23,8 @@ int Jumlah(int a, int b, int c)
     return a + b + c;
 }
 
-void Output(){
+void Output()
+{
     cout << "Hasilnya = " << LuasPersegi(p, l) << endl;
 }
 
