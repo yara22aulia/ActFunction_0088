@@ -5,7 +5,8 @@ using namespace std;
     float p, l;
 
 //Implementasi Prosedur & Fungsi
-void input (){
+void input ()
+{
     cout << "Masukkan Panjang : ";
     cin >> p;
     cout << "Masukkan Lebar : ";
