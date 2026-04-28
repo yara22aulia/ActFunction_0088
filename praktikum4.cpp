@@ -4,9 +4,9 @@ using namespace std;
 
 // Prosedur untuk memasukkan data
 void inputData(float &berat, float &tinggi) {
-    cout << "Masukkan berat badan (kg) : ";
+    cout << "Masukkan berat badan (kg) : 50 ";
     cin >> berat;
-    cout << "Masukkan tinggi badan (meter) : ";
+    cout << "Masukkan tinggi badan (meter) : 18.5 ";
     cin >> tinggi;
 }
 
